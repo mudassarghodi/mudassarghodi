@@ -9,8 +9,8 @@
 <h2 align="left">About me🙋‍♂️:<br>I am learning to do be a better version of myself.</h2>
 
 ###
-
-<h3 🎯Goals: Want To became a finest developer...align="left">📚 I'm currently working on:<br>.python<br>.kotlin<br></h3>
+<h3>🎯Goals: Want To became a finest developer.. </h3> 
+<h3 align="left">📚 I'm currently working on:<br>.python<br>.kotlin<br></h3>
 
 ###
 
