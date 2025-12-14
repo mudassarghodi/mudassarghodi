@@ -1,4 +1,4 @@
-<h1 align="left">Hey👋, I'm Mudassar Ghodi</h1>
+<h1 align="left">Hey👋, I'm Mudassar </h1>
 
 ###
 
