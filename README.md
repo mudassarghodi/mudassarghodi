@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">📚 I'm currently working on:<br>.python<br>.kotlin<br>🎯Goals: To became a finest developer...</h3>
+<h3 align="left">📚 I'm currently working on:<br>.python<br>.kotlin<br>🎯Goals: Want To became a finest developer...</h3>
 
 ###
 
