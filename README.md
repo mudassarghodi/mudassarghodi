@@ -6,11 +6,11 @@
 
 ###
 
-<h2 align="left">About me🙋‍♂️:<br>Trying to do better...</h2>
+<h2 align="left">About me🙋‍♂️:<br>I am Final-year BCA student with strong Python fundamentals, currently learning backend development.</h2>
 
 ###
-<h3>🎯Goals: Want To became a finest developer... </h3> 
-<h2 align="left">📚Currently, I'm working on:<br>python<br></h2>
+<h3>🎯Goals: Want To became a full stack developer. </h3> 
+<h2 align="left">📚Currently, I'm working on:<br>Django</br>postgresql</h2>
 
 ###
 
