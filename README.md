@@ -10,7 +10,7 @@
 
 ###
 <h3>🎯Goals: Want To became a full stack developer. </h3> 
-<h2 align="left">📚Currently, I'm working on:<br>Django</br>postgresql</h2>
+<h2 align="left">📚Currently, I'm working on:<br />Django
 
 ###
 
@@ -19,8 +19,9 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo" title="python" />
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40" />
   
 </div>
 
